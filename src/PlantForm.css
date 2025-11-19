@@ -1,0 +1,11 @@
+form {
+    border-radius: 5px;
+    border: 1px solid #02020269;
+    padding: 20px;
+    margin: 0 0 10px 0;
+}
+form>p {
+    font-size: 1.2em;
+    font-weight: semi-bold;
+    text-align: left;
+}
